@@ -45,7 +45,7 @@ Select from different levels:
 3. Open `index.html` in a browser.
 
 ### 📷 Screenshots
-(screen.png)
+![BlockWings Screenshot](screenshot.png)
 
 ### 🚀 Future Enhancements
 - Multiplayer mode

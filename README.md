@@ -6,6 +6,9 @@ BlockWings is a web-based flight simulator featuring voxel-style graphics inspir
 
 Demo: https://makalin.github.io/BlockWings/
 
+### 📷 Screenshots
+![BlockWings Screenshot](screenshot.png)
+
 ### 🚀 Features
 - **Voxel-based world:** Fly over plains, mountains, and islands.
 - **Realistic flight mechanics:** Control pitch, roll, yaw, and speed.
@@ -43,9 +46,6 @@ Select from different levels:
    cd BlockWings
    ```
 3. Open `index.html` in a browser.
-
-### 📷 Screenshots
-![BlockWings Screenshot](screenshot.png)
 
 ### 🚀 Future Enhancements
 - Multiplayer mode
